@@ -1523,46 +1523,47 @@
 73,Jay Gorter,Go Ahead Eagles,Ajax,1.0,2020
 76,Konrad de la Fuente,Barcelona,Marseille,3.0,2020
 77,Danilo Pereira,FC Porto,PSG,16.0,2020
-1,Ahmetcan Kaplan,Trabzonspor,Ajax,9.5,2021
-2,Igor Paixão,Coritiba,Feyenoord,5.0,2021
-4,Alan Virginius,Sochaux,Lille,4.0,2021
-6,Mohamed Camara,RB Salzburg,Monaco,15.0,2021
-7,Jorge Sanchez,America,Ajax,5.0,2021
-10,Mathew Ryan,Real Sociedad,FC Copenhagen,5.0,2021
-13,Lucas Torreira,Arsenal,Galatasaray,6.0,2021
-14,Renato Sanches,Lille,PSG,15.0,2021
-15,Mattia Viti,Empoli,Nice,13.0,2021
+0,Dávid Hancko,Sparta Prague,Feyenoord,6.0,2021
+2,Ahmetcan Kaplan,Trabzonspor,Ajax,9.5,2021
+3,Igor Paixão,Coritiba,Feyenoord,5.0,2021
+5,Alan Virginius,Sochaux,Lille,4.0,2021
+7,Mohamed Camara,RB Salzburg,Monaco,15.0,2021
+8,Jorge Sanchez,America,Ajax,5.0,2021
+11,Mathew Ryan,Real Sociedad,FC Copenhagen,5.0,2021
+14,Lucas Torreira,Arsenal,Galatasaray,6.0,2021
+15,Renato Sanches,Lille,PSG,15.0,2021
+16,Mattia Viti,Empoli,Nice,13.0,2021
 17,Kasper Schmeichel,Leicester City,OGC Nice,1.0,2021
-20,Alexis Beka Beka,Lokomotiv Moscow,Nice,12.0,2021
-21,Arthur Theate,Bologna,Rennes,19.0,2021
-22,Nordi Mukiele,RB Leipzig,PSG,12.0,2021
-23,Rıdvan Yılmaz,Besiktas,Rangers,4.0,2021
-24,Calvin Bassey,Rangers,Ajax,23.0,2021
-28,Ben Davies,Liverpool,Rangers,4.7,2021
+21,Alexis Beka Beka,Lokomotiv Moscow,Nice,12.0,2021
+22,Arthur Theate,Bologna,Rennes,19.0,2021
+23,Nordi Mukiele,RB Leipzig,PSG,12.0,2021
+24,Rıdvan Yılmaz,Besiktas,Rangers,4.0,2021
+25,Calvin Bassey,Rangers,Ajax,23.0,2021
 29,Luis Suarez,Granada,Marseille,10.0,2021
-31,Rareș Ilie,FC Rapid,Nice,5.0,2021
+30,Ben Davies,Liverpool,Rangers,4.7,2021
+32,Rareș Ilie,FC Rapid,Nice,5.0,2021
 36,Breel Embolo,Monchengladbach,Monaco,12.5,2021
-37,Enzo Fernández,River Plate,Benfica,10.0,2021
-41,Mohamed Bayo,Clermont,Lille,14.0,2021
-44,Owen Wijndal,AZ Alkmaar,Ajax,10.0,2021
-45,Rabbi Matondo,Schalke,Rangers,3.0,2021
-47,Sergio Oliveira,Porto,Galatasaray,3.0,2021
-48,Steven Bergwijn,Tottenham,Ajax,31.25,2021
-49,David Carmo,Braga,Porto,20.0,2021
-53,Pedro Porro,Manchester City,Sporting,8.5,2021
-54,Pau Lopez,Roma,Marseille,12.0,2021
-55,Diego Rossi,Los Angeles FC,Fenerbahce,5.5,2021
-56,Gedson Fernandes,Benfica,Besiktas,6.0,2021
-58,Ruben Vinagre,Wolves,Sporting,10.0,2021
-59,Matteo Guendouzi,Arsenal,Marseille,11.0,2021
-60,Marko Grujić,Liverpool,Porto,9.0,2021
-61,Arkadiusz Milik,Napoli,Marseille ,9.0,2021
-64,David Neres,Shakhtar Donetsk,Benfica,15.0,2021
-66,Nuno Mendes,Sporting,PSG,38.0,2021
-68,Vitinha,Porto,PSG,41.5,2021
-70,Alexandro Bernabei,Lanus,Celtic,4.0,2021
-71,Alexandro Bernabei,Lanus,Celtic,4.35,2021
-73,Souleymane Isaak Touré,Le Havre,Marseille,5.5,2021
-75,Takumi Minamino,Liverpool,Monaco,15.0,2021
-80,Cengiz Under,Roma,Marseille,8.4,2021
-81,Enzo Fernández,River Plate,Benfica,10.0,2021
+38,Enzo Fernández,River Plate,Benfica,10.0,2021
+42,Mohamed Bayo,Clermont,Lille,14.0,2021
+45,Owen Wijndal,AZ Alkmaar,Ajax,10.0,2021
+46,Rabbi Matondo,Schalke,Rangers,3.0,2021
+48,Sergio Oliveira,Porto,Galatasaray,3.0,2021
+49,Steven Bergwijn,Tottenham,Ajax,31.25,2021
+50,David Carmo,Braga,Porto,20.0,2021
+54,Pedro Porro,Manchester City,Sporting,8.5,2021
+55,Pau Lopez,Roma,Marseille,12.0,2021
+56,Diego Rossi,Los Angeles FC,Fenerbahce,5.5,2021
+57,Gedson Fernandes,Benfica,Besiktas,6.0,2021
+59,Ruben Vinagre,Wolves,Sporting,10.0,2021
+60,Matteo Guendouzi,Arsenal,Marseille,11.0,2021
+61,Marko Grujić,Liverpool,Porto,9.0,2021
+62,Arkadiusz Milik,Napoli,Marseille ,9.0,2021
+65,David Neres,Shakhtar Donetsk,Benfica,15.0,2021
+67,Nuno Mendes,Sporting,PSG,38.0,2021
+69,Vitinha,Porto,PSG,41.5,2021
+71,Alexandro Bernabei,Lanus,Celtic,4.0,2021
+72,Alexandro Bernabei,Lanus,Celtic,4.35,2021
+74,Souleymane Isaak Touré,Le Havre,Marseille,5.5,2021
+76,Takumi Minamino,Liverpool,Monaco,15.0,2021
+82,Enzo Fernández,River Plate,Benfica,10.0,2021
+83,Cengiz Under,Roma,Marseille,8.4,2021
